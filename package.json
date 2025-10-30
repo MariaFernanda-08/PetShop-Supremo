@@ -1,0 +1,19 @@
+{
+  "name": "petshop-supremo",
+  "version": "1.0.0",
+  "description": "Petshop",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "petshop",
+    "supremo"
+  ],
+  "author": "Maria Fernanda Tomazelli Bonini",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
